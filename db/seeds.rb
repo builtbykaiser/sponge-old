@@ -5,3 +5,12 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Medium.create(name: 'Book')
+Medium.create(name: 'Government Report')
+Medium.create(name: 'Journal Article')
+Medium.create(name: 'Magazine')
+Medium.create(name: 'Newspaper')
+Medium.create(name: 'Private Org Report')
+Medium.create(name: 'Textbook')
+Medium.create(name: 'Wikipedia')
